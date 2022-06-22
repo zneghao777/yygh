@@ -6,6 +6,9 @@
         <module>common</module>
         <module>model</module>
         <module>service</module>
+        <module>service</module>
+        <module>service</module>
+        <module>service_hosp</module>
         <!--<module>model</module>
         <module>service</module>
         <module>server-gateway</module>
